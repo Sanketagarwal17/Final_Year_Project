@@ -17,8 +17,8 @@ We implemented the above idea for the following diseases:
 - Brain Tumor
 - Skin Cancer
 
-With the service we are providing you, days of diagnosis are reduce to few seconds. The idea is discussed in detain in the presentation [here](https://docs.google.com/presentation/d/1eGThYkz9tSb3KBj6xPqzCeuo6vY97DWkzT1F5-prw4Y/edit?usp=sharing). (explanation also available)
+With the service we are providing you, days of diagnosis are reduce to few seconds. The idea is discussed in detain in the presentation [here](https://drive.google.com/drive/folders/1V0waZhdmw_7hfcNVcK-9XRqD7yzbMR3k?usp=sharing). (explanation also available)
 
-Moreover, the working of our project can be seen [here](https://drive.google.com/drive/folders/1W1j_0QIQtlahUmfbvYYvJbj6NC1LwkCM?usp=sharing). (demo also available)
+Moreover, the working of our project can be seen [here](https://drive.google.com/drive/folders/1aa4TIJJUi5Bq5t08-TJ8JfWMK6eQG3RJ?usp=sharing). (demo also available)
 
 Short Summary of the project can be seen [here](https://docs.google.com/document/d/125cGB5IVohVO9vYI9SibjgCqVdSYBJ3u/edit?usp=sharing&ouid=116222834378664197986&rtpof=true&sd=true).
